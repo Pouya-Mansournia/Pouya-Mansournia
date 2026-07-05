@@ -140,18 +140,6 @@ A closed-loop embedded controller for piezoelectric actuators with strain-gauge 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pouya-Mansournia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Pouya Mansournia GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Mansournia&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
-
-</div>
-
----
-
 ## Collaboration
 
 I am interested in collaborating on:
