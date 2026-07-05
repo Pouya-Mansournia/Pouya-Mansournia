@@ -24,7 +24,7 @@ I am a robotics and mechatronics engineer focused on designing production-orient
 
 My work spans mobile robots, AGV and AMR platforms, industrial automation, precision positioning systems, embedded electronics, IoT products, and AI-assisted engineering workflows.
 
-- Co-Founder & CIO at **X-ROBOTIICS**
+- Co-Founder & CINO at **X-ROBOTIICS**
 - Former Robotics & Automation Senior Manager at **Digikala**
 - Experienced in leading multidisciplinary engineering projects from concept and prototyping to field deployment
 - Interested in robotics research, intelligent automation, precision mechanisms, embedded systems, and AI-native product development
