@@ -46,21 +46,7 @@ My work spans mobile robots, AGV and AMR platforms, industrial automation, preci
 
 ## Featured Open-Source Projects
 
-### [Warehouse AMR ROS2](https://github.com/Pouya-Mansournia/warehouse-amr-ros2)
 
-A ROS2-based autonomous mobile robot platform for warehouse navigation, mapping, and fleet automation, designed for modular AMR research and deployment.
-
-**Focus:** ROS2 · Autonomous Mobile Robots · Navigation · Warehouse Automation
-
----
-
-### [ROS2 Zero to Robot](https://pouya-mansournia.github.io/ros2-zero-to-robot/)
-
-A hands-on ROS 2 learning journey from foundational concepts to autonomous robot applications, including navigation, perception, and system integration.
-
-**Focus:** ROS2 · Robotics Education · Autonomous Systems · Embedded Robotics
-
----
 
 ### [Delivery Robot ROS](https://github.com/Pouya-Mansournia/Delivery-Robot-ROS)
 
@@ -83,6 +69,21 @@ An open-source agentic operating system for building modular AI teams using skil
 A Principal Engineer and CTO decision system for making production-grade architecture, cloud, AI, robotics, security, and scaling decisions before implementation.
 
 **Focus:** Software Architecture · System Design · Technical Strategy · Engineering Decisions
+
+---
+### [Warehouse AMR ROS2](https://github.com/Pouya-Mansournia/warehouse-amr-ros2)
+
+A ROS2-based autonomous mobile robot platform for warehouse navigation, mapping, and fleet automation, designed for modular AMR research and deployment.
+
+**Focus:** ROS2 · Autonomous Mobile Robots · Navigation · Warehouse Automation
+
+---
+
+### [ROS2 Zero to Robot](https://pouya-mansournia.github.io/ros2-zero-to-robot/)
+
+A hands-on ROS 2 learning journey from foundational concepts to autonomous robot applications, including navigation, perception, and system integration.
+
+**Focus:** ROS2 · Robotics Education · Autonomous Systems · Embedded Robotics
 
 ---
 
