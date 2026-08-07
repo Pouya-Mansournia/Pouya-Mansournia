@@ -62,14 +62,6 @@ A ROS-based delivery robot project covering navigation, localization, and autono
 
 ---
 
-### [Advanced Mobile Robotics Book](https://github.com/Pouya-Mansournia/advanced-mobile-robotics-book)
-
-An open-source book covering advanced concepts in mobile robotics, from theory to practical implementation.
-
-**Focus:** Mobile Robotics · Robotics Education · Open-Source Knowledge
-
----
-
 ### [FoundryOS](https://github.com/Pouya-Mansournia/FoundryOS)
 
 An open-source agentic operating system for building modular AI teams using skills, agents, meta-agents, workflows, memory, brand systems, and reusable commands.
@@ -107,6 +99,14 @@ An ESP32-based industrial interface board supporting isolated digital inputs, re
 A closed-loop embedded controller for piezoelectric actuators with strain-gauge feedback and Ethernet connectivity.
 
 **Focus:** Precision Mechatronics · STM32 · Closed-Loop Control · Piezoelectric Systems
+
+---
+
+### [Advanced Mobile Robotics Book](https://github.com/Pouya-Mansournia/advanced-mobile-robotics-book)
+
+An open-source book covering advanced concepts in mobile robotics, from theory to practical implementation.
+
+**Focus:** Mobile Robotics · Robotics Education · Open-Source Knowledge
 
 ---
 
