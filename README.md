@@ -48,9 +48,17 @@ My work spans mobile robots, AGV and AMR platforms, industrial automation, preci
 
 ### [Warehouse AMR ROS2](https://github.com/Pouya-Mansournia/warehouse-amr-ros2)
 
-A ROS2-based autonomous mobile robot platform for warehouse navigation, mapping, and fleet automation.
+A ROS2-based autonomous mobile robot platform for warehouse navigation, mapping, and fleet automation, designed for modular AMR research and deployment.
 
 **Focus:** ROS2 · Autonomous Mobile Robots · Navigation · Warehouse Automation
+
+---
+
+### [ROS2 Zero to Robot](https://pouya-mansournia.github.io/ros2-zero-to-robot/)
+
+A hands-on ROS 2 learning journey from foundational concepts to autonomous robot applications, including navigation, perception, and system integration.
+
+**Focus:** ROS2 · Robotics Education · Autonomous Systems · Embedded Robotics
 
 ---
 
@@ -168,9 +176,9 @@ An open-source book covering advanced concepts in mobile robotics, from theory t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pouya-Mansournia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Pouya Mansournia GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pouya-Mansournia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Pouya Mansournia GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Mansournia&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Mansournia&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Most used languages" />
 
 </div>
 
