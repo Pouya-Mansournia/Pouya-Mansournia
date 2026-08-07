@@ -46,6 +46,30 @@ My work spans mobile robots, AGV and AMR platforms, industrial automation, preci
 
 ## Featured Open-Source Projects
 
+### [Warehouse AMR ROS2](https://github.com/Pouya-Mansournia/warehouse-amr-ros2)
+
+A ROS2-based autonomous mobile robot platform for warehouse navigation, mapping, and fleet automation.
+
+**Focus:** ROS2 · Autonomous Mobile Robots · Navigation · Warehouse Automation
+
+---
+
+### [Delivery Robot ROS](https://github.com/Pouya-Mansournia/Delivery-Robot-ROS)
+
+A ROS-based delivery robot project covering navigation, localization, and autonomous mobility for last-mile delivery applications.
+
+**Focus:** ROS · Autonomous Mobile Robots · Navigation · Delivery Robotics
+
+---
+
+### [Advanced Mobile Robotics Book](https://github.com/Pouya-Mansournia/advanced-mobile-robotics-book)
+
+An open-source book covering advanced concepts in mobile robotics, from theory to practical implementation.
+
+**Focus:** Mobile Robotics · Robotics Education · Open-Source Knowledge
+
+---
+
 ### [FoundryOS](https://github.com/Pouya-Mansournia/FoundryOS)
 
 An open-source agentic operating system for building modular AI teams using skills, agents, meta-agents, workflows, memory, brand systems, and reusable commands.
@@ -137,6 +161,18 @@ A closed-loop embedded controller for piezoelectric actuators with strain-gauge 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pouya-Mansournia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Pouya Mansournia GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Mansournia&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+
+</div>
 
 ---
 
