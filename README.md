@@ -4,12 +4,12 @@ Profile README for github.com/Pouya-Mansournia
 
 <div align="center">
 
-<img src="assets/header-banner.svg?v=3" alt="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader" width="100%" />
+<img src="assets/header-banner.svg?v=4" alt="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader" width="100%" />
 
 <br/>
 
 <a href="https://github.com/Pouya-Mansournia">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+autonomous+robotic+systems+from+mechanism+to+deployment;ROS+2+%C2%B7+SLAM+%C2%B7+Navigation+%C2%B7+Embedded+Control+%C2%B7+Sensor+Fusion;From+precision+mechanisms+to+warehouse-scale+automation;Engineering+products+across+hardware%2C+software%2C+AI+and+operations&font=Fira+Code&center=true&width=760&size=18&duration=3200&pause=900&color=22D3EE&vCenter=true" alt="Rotating technical summary of Pouya Mansournia's engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+autonomous+robotic+systems+from+mechanism+to+deployment;ROS+2+%C2%B7+SLAM+%C2%B7+Navigation+%C2%B7+Embedded+Control+%C2%B7+Sensor+Fusion;From+precision+mechanisms+to+warehouse-scale+automation;Engineering+products+across+hardware%2C+software%2C+AI+and+operations&font=Fira+Code&center=true&width=760&size=18&duration=3200&pause=900&color=0F5C46&vCenter=true" alt="Rotating technical summary of Pouya Mansournia's engineering focus" />
 </a>
 
 <br/><br/>

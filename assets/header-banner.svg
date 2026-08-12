@@ -1,12 +1,12 @@
-<svg width="1600" height="460" viewBox="0 0 1600 460" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader. Light engineering dashboard theme with jade-green accents, domain index list, and system panels for AI, capabilities, automation, tech stack and engineering domains.">
+<svg width="1600" height="460" viewBox="0 0 1600 460" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader. Dark jade-green engineering dashboard theme with domain index list and system panels for AI, capabilities, automation, tech stack and engineering domains.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="460" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#faf3e6"/>
-      <stop offset="1" stop-color="#f0e6d2"/>
+      <stop offset="0" stop-color="#0b3327"/>
+      <stop offset="1" stop-color="#082018"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0f5c46"/>
-      <stop offset="1" stop-color="#7c2d3a"/>
+      <stop offset="0" stop-color="#2fa27f"/>
+      <stop offset="1" stop-color="#a4485a"/>
     </linearGradient>
   </defs>
 
@@ -14,60 +14,60 @@
   <rect x="0" y="0" width="1600" height="4" fill="url(#accent)"/>
 
   <!-- confetti triangles -->
-  <g opacity="0.45">
-    <polygon points="120,50 150,100 90,100" fill="#a9c9b8"/>
-    <polygon points="1500,36 1535,91 1465,91" fill="#a9525f"/>
-    <polygon points="1420,380 1460,430 1380,430" fill="#e3d5ad"/>
-    <polygon points="1120,44 1150,84 1090,84" fill="#7fae94"/>
-    <polygon points="980,400 1015,440 945,440" fill="#a9c9b8"/>
+  <g opacity="0.35">
+    <polygon points="120,50 150,100 90,100" fill="#2fa27f"/>
+    <polygon points="1500,36 1535,91 1465,91" fill="#a4485a"/>
+    <polygon points="1420,380 1460,430 1380,430" fill="#d8c79a"/>
+    <polygon points="1120,44 1150,84 1090,84" fill="#1f7a5f"/>
+    <polygon points="980,400 1015,440 945,440" fill="#2fa27f"/>
   </g>
 
   <!-- left: vertical accent rule + numbered domain index -->
-  <line x1="44" y1="56" x2="44" y2="420" stroke="#0f5c46" stroke-width="2" opacity="0.35"/>
+  <line x1="44" y1="56" x2="44" y2="420" stroke="#2fa27f" stroke-width="2" opacity="0.4"/>
 
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
     <g transform="translate(60,60)">
-      <text font-size="34" font-weight="800" fill="#0f5c46" opacity="0.4">01</text>
-      <text x="52" y="4" font-size="15" font-weight="700" fill="#2e2a1a" letter-spacing="0.5">AI &amp; SOFTWARE</text>
-      <text x="52" y="24" font-size="11.5" fill="#5c5642">Agentic AI · Automation · System Architecture</text>
+      <text font-size="34" font-weight="800" fill="#2fa27f" opacity="0.45">01</text>
+      <text x="52" y="4" font-size="15" font-weight="700" fill="#f3ede0" letter-spacing="0.5">AI &amp; SOFTWARE</text>
+      <text x="52" y="24" font-size="11.5" fill="#a9c3b6">Agentic AI · Automation · System Architecture</text>
     </g>
     <g transform="translate(60,138)">
-      <text font-size="34" font-weight="800" fill="#0f5c46" opacity="0.4">02</text>
-      <text x="52" y="4" font-size="15" font-weight="700" fill="#2e2a1a" letter-spacing="0.5">ROBOTICS &amp; AMR</text>
-      <text x="52" y="24" font-size="11.5" fill="#5c5642">ROS 2 · Navigation · Fleet Systems</text>
+      <text font-size="34" font-weight="800" fill="#2fa27f" opacity="0.45">02</text>
+      <text x="52" y="4" font-size="15" font-weight="700" fill="#f3ede0" letter-spacing="0.5">ROBOTICS &amp; AMR</text>
+      <text x="52" y="24" font-size="11.5" fill="#a9c3b6">ROS 2 · Navigation · Fleet Systems</text>
     </g>
     <g transform="translate(60,216)">
-      <text font-size="34" font-weight="800" fill="#7c2d3a" opacity="0.4">03</text>
-      <text x="52" y="4" font-size="15" font-weight="700" fill="#2e2a1a" letter-spacing="0.5">PRECISION SYSTEMS</text>
-      <text x="52" y="24" font-size="11.5" fill="#5c5642">Flexures · Piezo · Closed-Loop Control</text>
+      <text font-size="34" font-weight="800" fill="#c17888" opacity="0.5">03</text>
+      <text x="52" y="4" font-size="15" font-weight="700" fill="#f3ede0" letter-spacing="0.5">PRECISION SYSTEMS</text>
+      <text x="52" y="24" font-size="11.5" fill="#a9c3b6">Flexures · Piezo · Closed-Loop Control</text>
     </g>
     <g transform="translate(60,294)">
-      <text font-size="34" font-weight="800" fill="#0f5c46" opacity="0.4">04</text>
-      <text x="52" y="4" font-size="15" font-weight="700" fill="#2e2a1a" letter-spacing="0.5">EMBEDDED &amp; IOT</text>
-      <text x="52" y="24" font-size="11.5" fill="#5c5642">STM32 · ESP32 · Sensors &amp; Connectivity</text>
+      <text font-size="34" font-weight="800" fill="#2fa27f" opacity="0.45">04</text>
+      <text x="52" y="4" font-size="15" font-weight="700" fill="#f3ede0" letter-spacing="0.5">EMBEDDED &amp; IOT</text>
+      <text x="52" y="24" font-size="11.5" fill="#a9c3b6">STM32 · ESP32 · Sensors &amp; Connectivity</text>
     </g>
     <g transform="translate(60,372)">
-      <text font-size="34" font-weight="800" fill="#7c2d3a" opacity="0.4">05</text>
-      <text x="52" y="4" font-size="15" font-weight="700" fill="#2e2a1a" letter-spacing="0.5">PRODUCT &amp; FOUNDER</text>
-      <text x="52" y="24" font-size="11.5" fill="#5c5642">Strategy · Systems Ownership · GTM</text>
+      <text font-size="34" font-weight="800" fill="#c17888" opacity="0.5">05</text>
+      <text x="52" y="4" font-size="15" font-weight="700" fill="#f3ede0" letter-spacing="0.5">PRODUCT &amp; FOUNDER</text>
+      <text x="52" y="24" font-size="11.5" fill="#a9c3b6">Strategy · Systems Ownership · GTM</text>
     </g>
   </g>
 
   <!-- title block, right of the index, offset for asymmetry -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="560" y="98" font-size="58" font-weight="800" fill="#20241f" letter-spacing="-0.5">Pouya</text>
-    <text x="560" y="158" font-size="58" font-weight="800" fill="#0f5c46">Mansournia</text>
+    <text x="560" y="98" font-size="58" font-weight="800" fill="#f8f5ec" letter-spacing="-0.5">Pouya</text>
+    <text x="560" y="158" font-size="58" font-weight="800" fill="#3fc79a">Mansournia</text>
     <rect x="562" y="176" width="230" height="4" fill="url(#accent)"/>
-    <text x="562" y="204" font-size="17" fill="#5c5642" letter-spacing="0.4">Robotics Engineer  ·  Technical Founder  ·  Product Leader</text>
+    <text x="562" y="204" font-size="17" fill="#a9c3b6" letter-spacing="0.4">Robotics Engineer  ·  Technical Founder  ·  Product Leader</text>
   </g>
 
   <!-- right: asymmetric panel cluster -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
     <!-- AI orchestration: tall -->
     <g transform="translate(1050,40)">
-      <rect width="230" height="180" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#ddd0ac"/>
-      <text x="18" y="26" font-size="12" font-weight="700" fill="#20241f" letter-spacing="0.5">AI ORCHESTRATION</text>
-      <g stroke="#0f5c46" fill="#0f5c46" opacity="0.9">
+      <rect width="230" height="180" rx="12" fill="#0f4335" fill-opacity="0.75" stroke="#1f6650"/>
+      <text x="18" y="26" font-size="12" font-weight="700" fill="#f3ede0" letter-spacing="0.5">AI ORCHESTRATION</text>
+      <g stroke="#3fc79a" fill="#3fc79a" opacity="0.9">
         <circle cx="55" cy="80" r="2.6"/><circle cx="95" cy="60" r="2.6"/><circle cx="95" cy="100" r="2.6"/>
         <circle cx="145" cy="80" r="2.6"/><circle cx="180" cy="55" r="2.6"/><circle cx="180" cy="108" r="2.6"/>
         <line x1="55" y1="80" x2="95" y2="60" stroke-width="0.9"/>
@@ -77,7 +77,7 @@
         <line x1="145" y1="80" x2="180" y2="55" stroke-width="0.9"/>
         <line x1="145" y1="80" x2="180" y2="108" stroke-width="0.9"/>
       </g>
-      <g font-size="10.5" fill="#5c5642">
+      <g font-size="10.5" fill="#a9c3b6">
         <text x="18" y="152">Models</text><text x="70" y="152">Agents</text>
         <text x="120" y="152">Data</text><text x="165" y="152">Tools</text>
       </g>
@@ -85,20 +85,20 @@
 
     <!-- system status: shifted down for asymmetry -->
     <g transform="translate(1300,20)">
-      <rect width="250" height="120" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#ddd0ac"/>
-      <text x="18" y="26" font-size="12" font-weight="700" fill="#20241f" letter-spacing="0.5">SYSTEM STATUS</text>
-      <g font-size="11.5" fill="#3a3322">
-        <circle cx="24" cy="48" r="4" fill="#3f8f6f"/><text x="36" y="52">Navigation</text>
-        <circle cx="24" cy="72" r="4" fill="#3f8f6f"/><text x="36" y="76">Sensor Fusion</text>
-        <circle cx="24" cy="96" r="4" fill="#0f5c46"/><text x="36" y="100">Fleet Sync</text>
+      <rect width="250" height="120" rx="12" fill="#0f4335" fill-opacity="0.75" stroke="#1f6650"/>
+      <text x="18" y="26" font-size="12" font-weight="700" fill="#f3ede0" letter-spacing="0.5">SYSTEM STATUS</text>
+      <g font-size="11.5" fill="#dbe6de">
+        <circle cx="24" cy="48" r="4" fill="#3fc79a"/><text x="36" y="52">Navigation</text>
+        <circle cx="24" cy="72" r="4" fill="#3fc79a"/><text x="36" y="76">Sensor Fusion</text>
+        <circle cx="24" cy="96" r="4" fill="#2fa27f"/><text x="36" y="100">Fleet Sync</text>
       </g>
     </g>
 
     <!-- capabilities -->
     <g transform="translate(1300,158)">
-      <rect width="250" height="62" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#ddd0ac"/>
-      <text x="18" y="22" font-size="12" font-weight="700" fill="#20241f" letter-spacing="0.5">CAPABILITIES</text>
-      <g font-size="10" fill="#5c5642">
+      <rect width="250" height="62" rx="12" fill="#0f4335" fill-opacity="0.75" stroke="#1f6650"/>
+      <text x="18" y="22" font-size="12" font-weight="700" fill="#f3ede0" letter-spacing="0.5">CAPABILITIES</text>
+      <g font-size="10" fill="#a9c3b6">
         <text x="18" y="46">Perception</text><text x="100" y="46">Planning</text>
         <text x="175" y="46">Control</text>
       </g>
@@ -106,18 +106,18 @@
 
     <!-- engineering pipeline -->
     <g transform="translate(1050,238)">
-      <rect width="230" height="62" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#ddd0ac"/>
-      <text x="18" y="20" font-size="11" font-weight="700" fill="#20241f" letter-spacing="0.5">ENGINEERING PIPELINE</text>
-      <g font-size="9.5" fill="#5c5642">
+      <rect width="230" height="62" rx="12" fill="#0f4335" fill-opacity="0.75" stroke="#1f6650"/>
+      <text x="18" y="20" font-size="11" font-weight="700" fill="#f3ede0" letter-spacing="0.5">ENGINEERING PIPELINE</text>
+      <g font-size="9.5" fill="#a9c3b6">
         <text x="18" y="44">Design → Build → Validate → Deploy</text>
       </g>
     </g>
 
     <!-- tech stack -->
     <g transform="translate(1050,318)">
-      <rect width="230" height="80" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#ddd0ac"/>
-      <text x="18" y="20" font-size="12" font-weight="700" fill="#20241f" letter-spacing="0.5">TECH STACK</text>
-      <g font-size="10" fill="#3a3322">
+      <rect width="230" height="80" rx="12" fill="#0f4335" fill-opacity="0.75" stroke="#1f6650"/>
+      <text x="18" y="20" font-size="12" font-weight="700" fill="#f3ede0" letter-spacing="0.5">TECH STACK</text>
+      <g font-size="10" fill="#dbe6de">
         <text x="18" y="42">Python</text><text x="75" y="42">C / C++</text><text x="140" y="42">ROS 2</text>
         <text x="18" y="62">STM32</text><text x="75" y="62">ESP32</text><text x="140" y="62">SolidWorks</text>
       </g>
@@ -125,9 +125,9 @@
 
     <!-- engineering domains -->
     <g transform="translate(1300,238)">
-      <rect width="250" height="140" rx="12" fill="#ffffff" fill-opacity="0.72" stroke="#ddd0ac"/>
-      <text x="18" y="24" font-size="12" font-weight="700" fill="#20241f" letter-spacing="0.5">ENGINEERING DOMAINS</text>
-      <g font-size="10.5" fill="#5c5642">
+      <rect width="250" height="140" rx="12" fill="#0f4335" fill-opacity="0.75" stroke="#1f6650"/>
+      <text x="18" y="24" font-size="12" font-weight="700" fill="#f3ede0" letter-spacing="0.5">ENGINEERING DOMAINS</text>
+      <g font-size="10.5" fill="#a9c3b6">
         <text x="18" y="52">Robotics</text><text x="130" y="52">Mechatronics</text>
         <text x="18" y="76">Embedded</text><text x="130" y="76">Product</text>
         <text x="18" y="100">Autonomy</text><text x="130" y="100">AI Systems</text>
