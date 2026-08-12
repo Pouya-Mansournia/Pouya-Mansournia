@@ -40,11 +40,53 @@ My work spans mobile robots, AGV and AMR platforms, industrial automation, preci
 
 ## Engineering System Map
 
-<div align="center">
-<img src="assets/engineering-network.svg" alt="Engineering system map showing Pouya Mansournia's work across robotics and autonomous systems, precision engineering and mechatronics, AI/embedded software systems, and product/startup systems, linked to representative projects" width="100%" />
-</div>
+```mermaid
+flowchart TB
+    CORE(("POUYA<br/>Systems Engineer"))
 
-The diagram groups active work into four domains — robotics & autonomy, precision mechatronics, AI/embedded software, and product/founder systems. Linked projects are detailed below.
+    CORE --> ROB["🤖 Robotics &<br/>Autonomous Systems"]
+    CORE --> PREC["⚙️ Precision Engineering<br/>& Mechatronics"]
+    CORE --> AI["🧠 AI, Embedded &<br/>Software Systems"]
+    CORE --> PROD["🚀 Product & Founder<br/>Systems"]
+
+    ROB --> R1["Warehouse AMR ROS2"]
+    ROB --> R2["Delivery Robot ROS"]
+    ROB --> R3["ROS 2: Zero to Robot"]
+
+    PREC --> P1["Piezo Controller"]
+    PREC --> P2["Flexure Mechanisms"]
+
+    AI --> A1["FoundryOS"]
+    AI --> A2["ARCHON"]
+    AI --> A3["Multifunctional Probe"]
+
+    PROD --> D1["X-ROBOTIICS"]
+    PROD --> D2["PulseTask"]
+
+    click R1 "https://github.com/Pouya-Mansournia/warehouse-amr-ros2" _blank
+    click R2 "https://github.com/Pouya-Mansournia/Delivery-Robot-ROS" _blank
+    click R3 "https://pouya-mansournia.github.io/ros2-zero-to-robot/" _blank
+    click P1 "https://github.com/Pouya-Mansournia/Piezo-Controller" _blank
+    click A1 "https://github.com/Pouya-Mansournia/FoundryOS" _blank
+    click A2 "https://github.com/Pouya-Mansournia/ARCHON" _blank
+    click A3 "https://github.com/Pouya-Mansournia/multifunctional-probe" _blank
+    click D1 "https://mansournia.info/" _blank
+    click D2 "https://github.com/Pouya-Mansournia/PulseTask" _blank
+
+    classDef core fill:#0d1117,stroke:#22d3ee,stroke-width:2px,color:#e2e8f0,font-weight:bold
+    classDef robotics fill:#0b2a3d,stroke:#22d3ee,stroke-width:1.5px,color:#e2e8f0
+    classDef precision fill:#3a2410,stroke:#f59e0b,stroke-width:1.5px,color:#e2e8f0
+    classDef ai fill:#1e1b3a,stroke:#818cf8,stroke-width:1.5px,color:#e2e8f0
+    classDef product fill:#123324,stroke:#34d399,stroke-width:1.5px,color:#e2e8f0
+
+    class CORE core
+    class ROB,R1,R2,R3 robotics
+    class PREC,P1,P2 precision
+    class AI,A1,A2,A3 ai
+    class PROD,D1,D2 product
+```
+
+The map groups active work into four domains — robotics & autonomy, precision mechatronics, AI/embedded software, and product/founder systems. Click any project node to open its repository.
 
 ---
 
