@@ -4,7 +4,7 @@ Profile README for github.com/Pouya-Mansournia
 
 <div align="center">
 
-<img src="assets/header-banner.svg" alt="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader" width="100%" />
+<img src="assets/header-banner.svg?v=2" alt="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader" width="100%" />
 
 <br/>
 
