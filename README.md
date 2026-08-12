@@ -20,6 +20,11 @@ Profile README for github.com/Pouya-Mansournia
 [![ROS2 Book](https://img.shields.io/badge/ROS_2-Zero_to_Robot-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://pouya-mansournia.github.io/ros2-zero-to-robot/)
 [![FoundryOS](https://img.shields.io/badge/FoundryOS-Agentic_AI_OS-3B82F6?style=for-the-badge)](https://github.com/Pouya-Mansournia/FoundryOS)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pouya-Mansournia&style=flat-square&color=22d3ee&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Pouya-Mansournia?style=flat-square&color=22d3ee&label=Followers&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -233,11 +238,11 @@ An open-source book covering advanced concepts in mobile robotics, from theory t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pouya-Mansournia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Pouya Mansournia GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Mansournia&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Most used languages" />
+<img src="assets/github-stats.svg" alt="Pouya Mansournia GitHub statistics — public repos, stars, forks, followers, and top languages" width="100%" />
 
 </div>
+
+<sub>Generated locally from the GitHub API by <a href="scripts/generate_stats_svg.py">scripts/generate_stats_svg.py</a> and refreshed on a schedule — no third-party stats service dependency.</sub>
 
 ---
 
