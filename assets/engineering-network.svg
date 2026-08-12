@@ -31,19 +31,19 @@
   <text x="250" y="106" text-anchor="middle" class="lbl-d" font-size="12">ROBOTICS</text>
   <text x="250" y="120" text-anchor="middle" class="lbl-s">Autonomous Systems</text>
 
-  <a xlink:href="https://github.com/Pouya-Mansournia/warehouse-amr-ros2">
+  <a href="https://github.com/Pouya-Mansournia/warehouse-amr-ros2">
     <line x1="220" y1="130" x2="80" y2="40" class="edge2"/>
     <rect x="10" y="18" width="140" height="44" rx="6" class="tag"/>
     <text x="80" y="36" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Warehouse AMR ROS2</text>
     <text x="80" y="52" text-anchor="middle" class="tag-t">ROS 2 · Nav · Fleet</text>
   </a>
-  <a xlink:href="https://github.com/Pouya-Mansournia/Delivery-Robot-ROS">
+  <a href="https://github.com/Pouya-Mansournia/Delivery-Robot-ROS">
     <line x1="220" y1="130" x2="80" y2="120" class="edge2"/>
     <rect x="10" y="98" width="140" height="44" rx="6" class="tag"/>
     <text x="80" y="116" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Delivery Robot ROS</text>
     <text x="80" y="132" text-anchor="middle" class="tag-t">ROS · Navigation</text>
   </a>
-  <a xlink:href="https://pouya-mansournia.github.io/ros2-zero-to-robot/">
+  <a href="https://pouya-mansournia.github.io/ros2-zero-to-robot/">
     <line x1="270" y1="140" x2="230" y2="200" class="edge2"/>
     <rect x="160" y="200" width="150" height="44" rx="6" class="tag"/>
     <text x="235" y="218" text-anchor="middle" class="lbl" font-size="11" font-weight="600">ROS 2: Zero to Robot</text>
@@ -55,13 +55,13 @@
   <text x="750" y="106" text-anchor="middle" class="lbl-d" font-size="12">PRECISION</text>
   <text x="750" y="120" text-anchor="middle" class="lbl-s">Mechatronics</text>
 
-  <a xlink:href="https://github.com/Pouya-Mansournia/Piezo-Controller">
+  <a href="https://github.com/Pouya-Mansournia/Piezo-Controller">
     <line x1="780" y1="130" x2="920" y2="40" class="edge2"/>
     <rect x="850" y="18" width="140" height="44" rx="6" class="tag"/>
     <text x="920" y="36" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Piezo Controller</text>
     <text x="920" y="52" text-anchor="middle" class="tag-t">Closed-loop · STM32</text>
   </a>
-  <a xlink:href="#precision-engineering--mechatronics">
+  <a href="#precision-engineering--mechatronics">
     <line x1="780" y1="130" x2="920" y2="120" class="edge2"/>
     <rect x="850" y="98" width="140" height="44" rx="6" class="tag"/>
     <text x="920" y="116" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Flexure Mechanisms</text>
@@ -73,19 +73,19 @@
   <text x="250" y="446" text-anchor="middle" class="lbl-d" font-size="12">AI / EMBEDDED</text>
   <text x="250" y="460" text-anchor="middle" class="lbl-s">Software Systems</text>
 
-  <a xlink:href="https://github.com/Pouya-Mansournia/FoundryOS">
+  <a href="https://github.com/Pouya-Mansournia/FoundryOS">
     <line x1="220" y1="430" x2="80" y2="500" class="edge2"/>
     <rect x="10" y="480" width="140" height="44" rx="6" class="tag"/>
     <text x="80" y="498" text-anchor="middle" class="lbl" font-size="11" font-weight="600">FoundryOS</text>
     <text x="80" y="514" text-anchor="middle" class="tag-t">Agentic AI OS</text>
   </a>
-  <a xlink:href="https://github.com/Pouya-Mansournia/ARCHON">
+  <a href="https://github.com/Pouya-Mansournia/ARCHON">
     <line x1="220" y1="430" x2="80" y2="420" class="edge2"/>
     <rect x="10" y="398" width="140" height="44" rx="6" class="tag"/>
     <text x="80" y="416" text-anchor="middle" class="lbl" font-size="11" font-weight="600">ARCHON</text>
     <text x="80" y="432" text-anchor="middle" class="tag-t">Architecture Decisions</text>
   </a>
-  <a xlink:href="https://github.com/Pouya-Mansournia/multifunctional-probe">
+  <a href="https://github.com/Pouya-Mansournia/multifunctional-probe">
     <line x1="270" y1="420" x2="230" y2="360" class="edge2"/>
     <rect x="160" y="318" width="150" height="44" rx="6" class="tag"/>
     <text x="235" y="336" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Multifunctional Probe</text>
@@ -97,13 +97,13 @@
   <text x="750" y="446" text-anchor="middle" class="lbl-d" font-size="12">PRODUCT</text>
   <text x="750" y="460" text-anchor="middle" class="lbl-s">Founder Systems</text>
 
-  <a xlink:href="https://mansournia.info/">
+  <a href="https://mansournia.info/">
     <line x1="780" y1="430" x2="920" y2="500" class="edge2"/>
     <rect x="850" y="480" width="140" height="44" rx="6" class="tag"/>
     <text x="920" y="498" text-anchor="middle" class="lbl" font-size="11" font-weight="600">X-ROBOTIICS</text>
     <text x="920" y="514" text-anchor="middle" class="tag-t">Co-Founder &amp; CINO</text>
   </a>
-  <a xlink:href="https://github.com/Pouya-Mansournia/PulseTask">
+  <a href="https://github.com/Pouya-Mansournia/PulseTask">
     <line x1="780" y1="430" x2="920" y2="420" class="edge2"/>
     <rect x="850" y="398" width="140" height="44" rx="6" class="tag"/>
     <text x="920" y="416" text-anchor="middle" class="lbl" font-size="11" font-weight="600">PulseTask</text>
