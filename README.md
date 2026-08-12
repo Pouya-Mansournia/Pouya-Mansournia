@@ -73,11 +73,11 @@ flowchart TB
     click D1 "https://mansournia.info/" _blank
     click D2 "https://github.com/Pouya-Mansournia/PulseTask" _blank
 
-    classDef core fill:#0d1117,stroke:#22d3ee,stroke-width:2px,color:#e2e8f0,font-weight:bold
-    classDef robotics fill:#0b2a3d,stroke:#22d3ee,stroke-width:1.5px,color:#e2e8f0
-    classDef precision fill:#3a2410,stroke:#f59e0b,stroke-width:1.5px,color:#e2e8f0
-    classDef ai fill:#1e1b3a,stroke:#818cf8,stroke-width:1.5px,color:#e2e8f0
-    classDef product fill:#123324,stroke:#34d399,stroke-width:1.5px,color:#e2e8f0
+    classDef core fill:#67e8f9,stroke:#0e7490,stroke-width:2px,color:#0f172a,font-weight:bold
+    classDef robotics fill:#7dd3fc,stroke:#0284c7,stroke-width:1.5px,color:#0f172a
+    classDef precision fill:#fdba74,stroke:#ea580c,stroke-width:1.5px,color:#0f172a
+    classDef ai fill:#c4b5fd,stroke:#7c3aed,stroke-width:1.5px,color:#0f172a
+    classDef product fill:#86efac,stroke:#16a34a,stroke-width:1.5px,color:#0f172a
 
     class CORE core
     class ROB,R1,R2,R3 robotics
