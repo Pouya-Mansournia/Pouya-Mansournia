@@ -4,15 +4,21 @@ Profile README for github.com/Pouya-Mansournia
 
 <div align="center">
 
-# Pouya Mansournia
+<img src="assets/header-banner.svg" alt="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader" width="100%" />
 
-### Robotics Systems Architect · Mechatronics Engineer · Technical Founder
+<br/>
 
-Building intelligent robotic systems, embedded products, industrial automation platforms, and open-source AI engineering tools.
+<a href="https://github.com/Pouya-Mansournia">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+autonomous+robotic+systems+from+mechanism+to+deployment;ROS+2+%C2%B7+SLAM+%C2%B7+Navigation+%C2%B7+Embedded+Control+%C2%B7+Sensor+Fusion;From+precision+mechanisms+to+warehouse-scale+automation;Engineering+products+across+hardware%2C+software%2C+AI+and+operations&font=Fira+Code&center=true&width=760&size=18&duration=3200&pause=900&color=22D3EE&vCenter=true" alt="Rotating technical summary of Pouya Mansournia's engineering focus" />
+</a>
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mansournia.info-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mansournia.info/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pouya_Mansournia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-mansournia/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pouya--Mansournia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pouya-Mansournia)
+[![ROS2 Book](https://img.shields.io/badge/ROS_2-Zero_to_Robot-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://pouya-mansournia.github.io/ros2-zero-to-robot/)
+[![FoundryOS](https://img.shields.io/badge/FoundryOS-Agentic_AI_OS-3B82F6?style=for-the-badge)](https://github.com/Pouya-Mansournia/FoundryOS)
 
 </div>
 
@@ -32,6 +38,16 @@ My work spans mobile robots, AGV and AMR platforms, industrial automation, preci
 
 ---
 
+## Engineering System Map
+
+<div align="center">
+<img src="assets/engineering-network.svg" alt="Engineering system map showing Pouya Mansournia's work across robotics and autonomous systems, precision engineering and mechatronics, AI/embedded software systems, and product/startup systems, linked to representative projects" width="100%" />
+</div>
+
+The diagram groups active work into four domains — robotics & autonomy, precision mechatronics, AI/embedded software, and product/founder systems. Linked projects are detailed below.
+
+---
+
 ## Current Focus
 
 - Autonomous mobile robots and intelligent robotic systems
@@ -45,8 +61,6 @@ My work spans mobile robots, AGV and AMR platforms, industrial automation, preci
 ---
 
 ## Featured Open-Source Projects
-
-
 
 ### [Delivery Robot ROS](https://github.com/Pouya-Mansournia/Delivery-Robot-ROS)
 

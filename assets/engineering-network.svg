@@ -1,0 +1,114 @@
+<svg width="1000" height="560" viewBox="0 0 1000 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering system map of Pouya Mansournia's work across robotics, precision engineering, embedded and software systems, and product">
+  <defs>
+    <style>
+      .node   { fill:#111827; stroke:#334155; stroke-width:1.4; }
+      .core   { fill:#0d1117; stroke:#22d3ee; stroke-width:2; }
+      .domain { fill:#111827; stroke:#3b82f6; stroke-width:1.6; }
+      .edge   { stroke:#334155; stroke-width:1.2; }
+      .edge2  { stroke:#1f2937; stroke-width:1; }
+      .lbl    { font-family:'Segoe UI', Helvetica, Arial, sans-serif; fill:#e2e8f0; }
+      .lbl-d  { font-family:'Segoe UI', Helvetica, Arial, sans-serif; fill:#22d3ee; font-weight:700; }
+      .lbl-s  { font-family:'Segoe UI', Helvetica, Arial, sans-serif; fill:#94a3b8; font-size:11px; }
+      .tag    { fill:#0b1220; stroke:#243044; stroke-width:1; }
+      .tag-t  { font-family:'Segoe UI', Helvetica, Arial, sans-serif; fill:#64748b; font-size:10px; }
+    </style>
+  </defs>
+  <rect width="1000" height="560" fill="#0b0f17"/>
+
+  <!-- core node -->
+  <circle cx="500" cy="280" r="42" class="core"/>
+  <text x="500" y="276" text-anchor="middle" class="lbl" font-size="15" font-weight="700">POUYA</text>
+  <text x="500" y="293" text-anchor="middle" class="lbl-s">Systems Engineer</text>
+
+  <!-- spokes to 4 domain hubs -->
+  <line x1="500" y1="238" x2="250" y2="110" class="edge"/>
+  <line x1="500" y1="238" x2="750" y2="110" class="edge"/>
+  <line x1="500" y1="322" x2="250" y2="450" class="edge"/>
+  <line x1="500" y1="322" x2="750" y2="450" class="edge"/>
+
+  <!-- A: Robotics & Autonomous Systems -->
+  <circle cx="250" cy="110" r="34" class="domain"/>
+  <text x="250" y="106" text-anchor="middle" class="lbl-d" font-size="12">ROBOTICS</text>
+  <text x="250" y="120" text-anchor="middle" class="lbl-s">Autonomous Systems</text>
+
+  <a xlink:href="https://github.com/Pouya-Mansournia/warehouse-amr-ros2">
+    <line x1="220" y1="130" x2="80" y2="40" class="edge2"/>
+    <rect x="10" y="18" width="140" height="44" rx="6" class="tag"/>
+    <text x="80" y="36" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Warehouse AMR ROS2</text>
+    <text x="80" y="52" text-anchor="middle" class="tag-t">ROS 2 · Nav · Fleet</text>
+  </a>
+  <a xlink:href="https://github.com/Pouya-Mansournia/Delivery-Robot-ROS">
+    <line x1="220" y1="130" x2="80" y2="120" class="edge2"/>
+    <rect x="10" y="98" width="140" height="44" rx="6" class="tag"/>
+    <text x="80" y="116" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Delivery Robot ROS</text>
+    <text x="80" y="132" text-anchor="middle" class="tag-t">ROS · Navigation</text>
+  </a>
+  <a xlink:href="https://pouya-mansournia.github.io/ros2-zero-to-robot/">
+    <line x1="270" y1="140" x2="230" y2="200" class="edge2"/>
+    <rect x="160" y="200" width="150" height="44" rx="6" class="tag"/>
+    <text x="235" y="218" text-anchor="middle" class="lbl" font-size="11" font-weight="600">ROS 2: Zero to Robot</text>
+    <text x="235" y="234" text-anchor="middle" class="tag-t">Open-source curriculum</text>
+  </a>
+
+  <!-- B: Precision Engineering & Mechatronics -->
+  <circle cx="750" cy="110" r="34" class="domain"/>
+  <text x="750" y="106" text-anchor="middle" class="lbl-d" font-size="12">PRECISION</text>
+  <text x="750" y="120" text-anchor="middle" class="lbl-s">Mechatronics</text>
+
+  <a xlink:href="https://github.com/Pouya-Mansournia/Piezo-Controller">
+    <line x1="780" y1="130" x2="920" y2="40" class="edge2"/>
+    <rect x="850" y="18" width="140" height="44" rx="6" class="tag"/>
+    <text x="920" y="36" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Piezo Controller</text>
+    <text x="920" y="52" text-anchor="middle" class="tag-t">Closed-loop · STM32</text>
+  </a>
+  <a xlink:href="#precision-engineering--mechatronics">
+    <line x1="780" y1="130" x2="920" y2="120" class="edge2"/>
+    <rect x="850" y="98" width="140" height="44" rx="6" class="tag"/>
+    <text x="920" y="116" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Flexure Mechanisms</text>
+    <text x="920" y="132" text-anchor="middle" class="tag-t">Precision Motion</text>
+  </a>
+
+  <!-- C: AI, Embedded & Software Systems -->
+  <circle cx="250" cy="450" r="34" class="domain"/>
+  <text x="250" y="446" text-anchor="middle" class="lbl-d" font-size="12">AI / EMBEDDED</text>
+  <text x="250" y="460" text-anchor="middle" class="lbl-s">Software Systems</text>
+
+  <a xlink:href="https://github.com/Pouya-Mansournia/FoundryOS">
+    <line x1="220" y1="430" x2="80" y2="500" class="edge2"/>
+    <rect x="10" y="480" width="140" height="44" rx="6" class="tag"/>
+    <text x="80" y="498" text-anchor="middle" class="lbl" font-size="11" font-weight="600">FoundryOS</text>
+    <text x="80" y="514" text-anchor="middle" class="tag-t">Agentic AI OS</text>
+  </a>
+  <a xlink:href="https://github.com/Pouya-Mansournia/ARCHON">
+    <line x1="220" y1="430" x2="80" y2="420" class="edge2"/>
+    <rect x="10" y="398" width="140" height="44" rx="6" class="tag"/>
+    <text x="80" y="416" text-anchor="middle" class="lbl" font-size="11" font-weight="600">ARCHON</text>
+    <text x="80" y="432" text-anchor="middle" class="tag-t">Architecture Decisions</text>
+  </a>
+  <a xlink:href="https://github.com/Pouya-Mansournia/multifunctional-probe">
+    <line x1="270" y1="420" x2="230" y2="360" class="edge2"/>
+    <rect x="160" y="318" width="150" height="44" rx="6" class="tag"/>
+    <text x="235" y="336" text-anchor="middle" class="lbl" font-size="11" font-weight="600">Multifunctional Probe</text>
+    <text x="235" y="352" text-anchor="middle" class="tag-t">ESP32 · Industrial I/O</text>
+  </a>
+
+  <!-- D: Product, Startup & Innovation Systems -->
+  <circle cx="750" cy="450" r="34" class="domain"/>
+  <text x="750" y="446" text-anchor="middle" class="lbl-d" font-size="12">PRODUCT</text>
+  <text x="750" y="460" text-anchor="middle" class="lbl-s">Founder Systems</text>
+
+  <a xlink:href="https://mansournia.info/">
+    <line x1="780" y1="430" x2="920" y2="500" class="edge2"/>
+    <rect x="850" y="480" width="140" height="44" rx="6" class="tag"/>
+    <text x="920" y="498" text-anchor="middle" class="lbl" font-size="11" font-weight="600">X-ROBOTIICS</text>
+    <text x="920" y="514" text-anchor="middle" class="tag-t">Co-Founder &amp; CINO</text>
+  </a>
+  <a xlink:href="https://github.com/Pouya-Mansournia/PulseTask">
+    <line x1="780" y1="430" x2="920" y2="420" class="edge2"/>
+    <rect x="850" y="398" width="140" height="44" rx="6" class="tag"/>
+    <text x="920" y="416" text-anchor="middle" class="lbl" font-size="11" font-weight="600">PulseTask</text>
+    <text x="920" y="432" text-anchor="middle" class="tag-t">Serverless Product</text>
+  </a>
+
+  <text x="500" y="545" text-anchor="middle" class="lbl-s">Mechanism → Systems → Product → Deployment</text>
+</svg>

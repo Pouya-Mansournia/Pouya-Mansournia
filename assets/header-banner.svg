@@ -1,0 +1,51 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pouya Mansournia — Robotics Engineer, Technical Founder, Product Leader">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1f2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <rect width="1000" height="220" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1000" height="4" fill="url(#accent)"/>
+
+  <!-- trajectory / navigation path motif -->
+  <g stroke="#22d3ee" stroke-width="1.4" fill="none" opacity="0.55">
+    <path d="M 640 190 C 720 140, 760 90, 720 40"/>
+    <path d="M 700 200 C 800 170, 860 110, 830 30"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="640" cy="190" r="3.5"/>
+    <circle cx="720" cy="40" r="3.5"/>
+    <circle cx="700" cy="200" r="3"/>
+    <circle cx="830" cy="30" r="3"/>
+  </g>
+  <g fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.5">
+    <circle cx="905" cy="60" r="26"/>
+    <circle cx="905" cy="60" r="14"/>
+    <circle cx="905" cy="60" r="3" fill="#3b82f6" stroke="none"/>
+  </g>
+  <g stroke="#334155" stroke-width="1" opacity="0.7">
+    <line x1="905" y1="60" x2="960" y2="20"/>
+    <line x1="905" y1="60" x2="960" y2="100"/>
+  </g>
+  <g fill="#f59e0b">
+    <circle cx="960" cy="20" r="2.5"/>
+    <circle cx="960" cy="100" r="2.5"/>
+  </g>
+
+  <!-- text block -->
+  <text x="60" y="90" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f1f5f9">Pouya Mansournia</text>
+  <text x="60" y="128" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#22d3ee">Robotics Engineer · Technical Founder · Product Leader</text>
+  <text x="60" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8" letter-spacing="0.5">ROBOTICS · AI INTEGRATION · EMBEDDED SYSTEMS · AUTOMATION · PRECISION ENGINEERING</text>
+
+  <rect x="0" y="216" width="1000" height="4" fill="url(#accent)"/>
+</svg>
