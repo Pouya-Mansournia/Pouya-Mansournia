@@ -14,15 +14,15 @@
     <text y="20" font-size="11" fill="#64748b">Public Repos</text>
   </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(200,60)">
-    <text font-size="26" font-weight="700" fill="#22d3ee">64</text>
+    <text font-size="26" font-weight="700" fill="#22d3ee">67</text>
     <text y="20" font-size="11" fill="#64748b">Total Stars</text>
   </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(376,60)">
-    <text font-size="26" font-weight="700" fill="#22d3ee">22</text>
+    <text font-size="26" font-weight="700" fill="#22d3ee">21</text>
     <text y="20" font-size="11" fill="#64748b">Total Forks</text>
   </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(552,60)">
-    <text font-size="26" font-weight="700" fill="#22d3ee">20</text>
+    <text font-size="26" font-weight="700" fill="#22d3ee">21</text>
     <text y="20" font-size="11" fill="#64748b">Followers</text>
   </g>
 
