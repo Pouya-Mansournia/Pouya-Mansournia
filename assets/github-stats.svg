@@ -10,11 +10,11 @@
   <text x="24" y="34" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0" letter-spacing="0.5">GITHUB STATISTICS</text>
 
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(24,60)">
-    <text font-size="26" font-weight="700" fill="#22d3ee">38</text>
+    <text font-size="26" font-weight="700" fill="#22d3ee">39</text>
     <text y="20" font-size="11" fill="#64748b">Public Repos</text>
   </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(200,60)">
-    <text font-size="26" font-weight="700" fill="#22d3ee">74</text>
+    <text font-size="26" font-weight="700" fill="#22d3ee">77</text>
     <text y="20" font-size="11" fill="#64748b">Total Stars</text>
   </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(376,60)">
@@ -22,7 +22,7 @@
     <text y="20" font-size="11" fill="#64748b">Total Forks</text>
   </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(552,60)">
-    <text font-size="26" font-weight="700" fill="#22d3ee">22</text>
+    <text font-size="26" font-weight="700" fill="#22d3ee">23</text>
     <text y="20" font-size="11" fill="#64748b">Followers</text>
   </g>
 
@@ -32,8 +32,8 @@
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" transform="translate(24,150)">
     <text x="0" y="14" font-size="12" fill="#cbd5e1">Python</text>
     <rect x="120" y="3" width="240" height="10" rx="5" fill="#0f2036"/>
-    <rect x="120" y="3" width="77" height="10" rx="5" fill="#22d3ee"/>
-    <text x="368" y="13" font-size="11" fill="#64748b">32%</text>
+    <rect x="120" y="3" width="82" height="10" rx="5" fill="#22d3ee"/>
+    <text x="368" y="13" font-size="11" fill="#64748b">34%</text>
     <text x="0" y="42" font-size="12" fill="#cbd5e1">Perl</text>
     <rect x="120" y="31" width="240" height="10" rx="5" fill="#0f2036"/>
     <rect x="120" y="31" width="46" height="10" rx="5" fill="#0ea5e9"/>
@@ -48,7 +48,7 @@
     <text x="368" y="97" font-size="11" fill="#64748b">16%</text>
     <text x="0" y="126" font-size="12" fill="#cbd5e1">HTML</text>
     <rect x="120" y="115" width="240" height="10" rx="5" fill="#0f2036"/>
-    <rect x="120" y="115" width="31" height="10" rx="5" fill="#34d399"/>
-    <text x="368" y="125" font-size="11" fill="#64748b">13%</text>
+    <rect x="120" y="115" width="29" height="10" rx="5" fill="#34d399"/>
+    <text x="368" y="125" font-size="11" fill="#64748b">12%</text>
   </g>
 </svg>
